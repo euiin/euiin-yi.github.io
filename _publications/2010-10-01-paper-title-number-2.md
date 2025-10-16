@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Learning Spatiotemporal Representation in Nighttime Driving Video for Road Flood Detection"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: "conferences"
+permalink: /publication/2023-09-24-Road-Flood-Detection
+date: 2023-09-24
+venue: 'IEEE Intelligent Transportation Systems Conference (ITSC)'
+citation: '<b>Euiin Yi</b>, H. Chung, and K. Park. (2023). &quot;Learning Spatiotemporal Representation in Nighttime Driving Video for Road Flood Detection.&quot; <i>IEEE Intelligent Transportation Systems Conference (ITSC)</i>.'
+excerpt: '<img src="/assets/paper_images/Flood_Detection.png" alt="placeholder image" style="float: right; width: 300px; margin: 0 0 1em 1em;">
+This research focuses on detecting road floods in nighttime driving videos. The study proposes a deep learning model that learns spatiotemporal representations from vehicle black-box footage to effectively detect flooded road conditions, even in low-light and poor visibility environments. The work contributes to enhancing the safety of intelligent transportation systems.'
+keywords: 'Road Flood Detection, Computer Vision, Spatiotemporal Representation, Nighttime Driving, Intelligent Transportation Systems'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

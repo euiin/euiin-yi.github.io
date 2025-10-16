@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "IMPASTO: Multiplexed cyclic imaging without signal removal via self-supervised neural unmixing"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: "preprints"
+permalink: /publication/2022-11-22-IMPASTO
+date: 2022-11-22
+venue: 'BioRxiv'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2022.11.22.517463v1'
+citation: 'H. Kim, S. Bae, J. Cho, H. Nam, J. Seo, S. Han, <b>Euiin Yi</b>, E. Kim, Y-G. Yoont, and J-B. Chang. (2022). &quot;IMPASTO: Multiplexed cyclic imaging without signal removal via self-supervised neural unmixing.&quot; <i>BioRxiv preprint</i>.'
+excerpt: '<img src="/assets/paper_images/IMPASTO.png" alt="placeholder image" style="float: right; width: 200px; margin: 0 0 1em 1em;">
+Conventional multiplexed cyclic imaging techniques have limitations, as the signal removal process can alter tissue integrity. This paper introduces IMPASTO, a novel method that iterates imaging cycles without signal removal and uses a self-supervised AI model to unmix the signals, isolating individual protein images. This technique enables high-dimensional imaging while minimizing tissue damage.'
+keywords: 'Multiplexed Imaging, Cyclic Imaging, Self-Supervised Learning, Neural Unmixing, Proteomics, Bioimaging'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
