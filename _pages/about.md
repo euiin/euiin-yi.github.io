@@ -54,3 +54,15 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+## Publications {#publications}
+
+{% include base_path %}
+
+{%- assign pubs = site.publications | sort: "date" | reverse -%}
+{%- for post in pubs limit: 8 -%}
+  {%- include archive-single.html -%}
+{%- endfor -%}
+
+<p><a href="{{ '/publications/' | relative_url }}">See all publications →</a></p>
